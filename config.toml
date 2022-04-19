@@ -1,0 +1,4 @@
+baseURL = 'http://katzkawai.github.io/nikki02/'
+languageCode = 'ja-JP'
+title = 'わたしのサンプル日記'
+theme = "ananke"
