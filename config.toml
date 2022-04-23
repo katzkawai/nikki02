@@ -4,4 +4,4 @@ title = 'わたしのサンプル日記'
 theme = "ananke"
 publishDir = "docs"
 SectionPagesMenu = "main"
-cname = katzkawai.org
+cname = 'katzkawai.org'
